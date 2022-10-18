@@ -1,0 +1,22 @@
+{
+  "name": "aula8-nodejs",
+  "version": "1.0.0",
+  "description": "Projeto NodeJS",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jefbar1974/aula8-nodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jefbar1974/aula8-nodeJS/issues"
+  },
+  "homepage": "https://github.com/Jefbar1974/aula8-nodeJS#readme",
+  "dependencies": {
+    "jest": "^29.2.0"
+  }
+}
