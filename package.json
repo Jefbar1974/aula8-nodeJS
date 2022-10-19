@@ -4,6 +4,8 @@
   "description": "Projeto NodeJS",
   "main": "script.js",
   "scripts": {
+    "start": "webpack-dev-server",
+    "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -23,6 +25,7 @@
     "@babel/core": "^7.19.3",
     "babel-loader": "^8.2.5",
     "css-loader": "^6.7.1",
+    "html-webpack-plugin": "^5.5.0",
     "sass": "^1.55.0",
     "sass-loader": "^13.1.0",
     "style-loader": "^3.3.1",
